@@ -8,11 +8,11 @@ I am Yuria Loo
 
 
 I'm currently learning...
-- 🐍 Python
-- 🗃️ MySQL
+-  Java
+
 
 Tech Skills...
-💻 HTML5, CSS, JavaScript, Linux
+💻 HTML5, CSS, JavaScript, Linux, MySQL, Python
 <!--
 **yuria-loo/yuria-loo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
