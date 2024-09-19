@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yuria-loo.yuria.loo" />
 
-<h3 align="center">An Application Development student from Seattle</h3>
+<h3 align="center">An Computer Science student from Seattle</h3>
 
 I am Yuria Loo
-- <i>Currently:</i> Application Development AAS-T Student at North Seattle College in Seattle
+- <i>Currently:</i> Computer Science BS Student at North Seattle College in Seattle
 - <i>Previously:</i> Executive Assistant at Ernst & Young Japan
 
 
