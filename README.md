@@ -8,7 +8,7 @@ I am Yuria Loo
 
 
 I'm currently learning...
--  Java
+-  Java, Data Structure & Algorithms, Logic, Technical Writing
 
 
 Tech Skills...
