@@ -2,7 +2,7 @@
 
 <h3 align="center">A Computer Science student from Seattle</h3>
 
-I am Yuria Loo
+My name is Yuria Loo
 - <i>Currently:</i> Computer Science BS Student at North Seattle College in Seattle
 - <i>Previously:</i> Executive Assistant at Ernst & Young Japan
 
