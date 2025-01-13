@@ -8,11 +8,14 @@ My name is Yuria Loo
 
 
 I'm currently learning...
--  Java, Data Structure & Algorithms, Logic, Technical Writing
+-  Java, Algorithms Analysis, Computer Architecture, and Networking 
 
 
 Tech Skills...
-💻 HTML5, CSS, JavaScript, Linux, MySQL, Python
+💻 Java, Python, HTML5, CSS, JavaScript, Linux, MySQL
+
+Other Skills...
+Version Control, Git, Technical Writing, IntellJ, Unit Testing
 <!--
 **yuria-loo/yuria-loo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
