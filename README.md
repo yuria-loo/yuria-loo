@@ -8,14 +8,14 @@ My name is Yuria Loo
 
 
 I'm currently learning...
--  Project Management, Agile, Web Development, Jira, Confluence, JSON, React, Node.js
+-  Project Management, Agile, Web Development, Jira, Confluence, JSON, React, Node.js, and AI(Fundamental)
 
 
 Tech Skills...
 💻 Java, Python, HTML5, CSS, JavaScript, Linux, MySQL
 
 Other Skills...
-Version Control, Git, Technical Writing, IntellJ, Unit Testing, APIs, Fine-Tuning  
+Version Control, Git, Technical Writing, IntelliJ, Unit Testing, APIs, Fine-Tuning  
 <!--
 **yuria-loo/yuria-loo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
