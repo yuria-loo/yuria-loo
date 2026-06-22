@@ -22,26 +22,15 @@ I'm currently seeking Software Engineer and Full-Stack Engineer opportunities wh
 
 ## 💻 Technical Skills
 
-### Languages
-Java • JavaScript • TypeScript • Python • SQL • HTML • CSS
-
-### Frontend
-React • React Native • Expo • Tailwind CSS • Vite
-
-### Backend
-Node.js • Express.js • REST APIs • Authentication • Keycloak
-
-### Databases
-PostgreSQL • MySQL • SQLite
-
-### Tools
-Git • GitHub • Docker • Postman • Jira • Confluence
-
-### Testing
-JUnit • Jest • React Testing Library
-
-### Cloud & AI
-Azure AI Fundamentals • AI-Assisted Development • TensorZero
+| Category | Technologies |
+|-----------|-------------|
+| Languages | Java, JavaScript, TypeScript, Python, SQL, HTML, CSS |
+| Frontend | React, React Native, Expo, Tailwind CSS, Vite |
+| Backend | Node.js, Express.js, REST APIs, Keycloak Authentication |
+| Databases | PostgreSQL, MySQL, SQLite |
+| Testing | JUnit, Jest, React Testing Library |
+| Tools | Git, GitHub, Docker, Postman, Jira, Confluence |
+| AI & Cloud | Azure AI Fundamentals, TensorZero, AI-Assisted Development |
 
 <!--
 **yuria-loo/yuria-loo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
