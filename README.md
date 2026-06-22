@@ -2,20 +2,47 @@
 
 <h3 align="center">A Computer Science student from Seattle</h3>
 
-My name is Yuria Loo
-- <i>Currently:</i> Computer Science BS Student at North Seattle College in Seattle
-- <i>Previously:</i> Executive Assistant at Ernst & Young Japan
+# 👋 Hi, I'm Yuria Loo
+### Software Engineer | B.S. Computer Science | Seattle, WA
 
+I'm a recent Computer Science graduate from North Seattle College with experience building full-stack web and mobile applications using Java, JavaScript, TypeScript, React, React Native, Node.js, Express, SQL, and cloud technologies.
 
-I'm currently learning...
-- Jira, Confluence, JSON, React, Node.js, and AI(Fundamental)
+Prior to transitioning into software engineering, I worked as an Executive Assistant at Ernst & Young Japan, where I developed strong communication, organization, and cross-functional collaboration skills. I now enjoy applying those skills to software development, building reliable applications, collaborating across teams, and solving real-world problems through technology.
 
+I'm currently seeking Software Engineer and Full-Stack Engineer opportunities where I can continue growing while contributing to impactful products.
 
-Tech Skills...
-💻 Java, Python, HTML5, CSS, JavaScript, React, React Native, Node.js, Express.js
+## 🎯 Current Focus
 
-Other Skills...
-Version Control, Git, Technical Writing, IntelliJ, Unit Testing, APIs, Fine-Tuning, Project Management, Agile, Web Development,
+- Full-Stack Software Engineering
+- Backend Development (Java, Node.js, SQL)
+- React & React Native Applications
+- AI-Assisted Development Workflows
+- Open Source Contributions
+- Building scalable and maintainable software systems
+
+## 💻 Technical Skills
+
+### Languages
+Java • JavaScript • TypeScript • Python • SQL • HTML • CSS
+
+### Frontend
+React • React Native • Expo • Tailwind CSS • Vite
+
+### Backend
+Node.js • Express.js • REST APIs • Authentication • Keycloak
+
+### Databases
+PostgreSQL • MySQL • SQLite
+
+### Tools
+Git • GitHub • Docker • Postman • Jira • Confluence
+
+### Testing
+JUnit • Jest • React Testing Library
+
+### Cloud & AI
+Azure AI Fundamentals • AI-Assisted Development • TensorZero
+
 <!--
 **yuria-loo/yuria-loo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
